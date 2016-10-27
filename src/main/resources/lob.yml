@@ -1,0 +1,187 @@
+lob:
+ - id: LOB01
+   skills:
+    - sk: id=101,name=Java,rating=7
+    - sk: id=104,name=SQL Server,rating=8
+    - sk: id=104,name=SQL Server,rating=6
+    - sk: id=104,name=SQL Server,rating=5
+    - sk: id=104,name=SQL Server,rating=3
+    - sk: id=105,name=Oracle,rating=6
+    - sk: id=105,name=Oracle,rating=7
+    - sk: id=105,name=Oracle,rating=8
+    - sk: id=105,name=Oracle,rating=9
+    - sk: id=106,name=Sybase,rating=2
+    - sk: id=106,name=Sybase,rating=4
+    - sk: id=106,name=Sybase,rating=7
+    - sk: id=106,name=Sybase,rating=8
+    - sk: id=107,name=PL/SQL,rating=3
+ - id: LOB02
+   skills:
+    - sk: id=101,name=Java,rating=10
+    - sk: id=101,name=Java,rating=10
+    - sk: id=101,name=Java,rating=10
+    - sk: id=102,name=JMS,rating=5
+    - sk: id=102,name=JMS,rating=6
+    - sk: id=102,name=JMS,rating=7
+    - sk: id=102,name=JMS,rating=8
+    - sk: id=103,name=MQ,rating=8
+    - sk: id=103,name=MQ,rating=5
+    - sk: id=103,name=MQ,rating=6
+ - id: LOB03
+   skills:
+    - sk: id=103,name=MQ,rating=8
+    - sk: id=103,name=MQ,rating=5
+    - sk: id=103,name=MQ,rating=6
+    - sk: id=104,name=SQL Server,rating=8
+    - sk: id=104,name=SQL Server,rating=6
+    - sk: id=104,name=SQL Server,rating=5
+    - sk: id=104,name=SQL Server,rating=3
+    - sk: id=105,name=Oracle,rating=6
+    - sk: id=105,name=Oracle,rating=7
+    - sk: id=105,name=Oracle,rating=8
+    - sk: id=105,name=Oracle,rating=9
+    - sk: id=106,name=Sybase,rating=2
+    - sk: id=106,name=Sybase,rating=4
+    - sk: id=106,name=Sybase,rating=7
+    - sk: id=106,name=Sybase,rating=8
+    - sk: id=107,name=PL/SQL,rating=3
+    - sk: id=107,name=PL/SQL,rating=7
+    - sk: id=107,name=PL/SQL,rating=7
+    - sk: id=107,name=PL/SQL,rating=7
+ - id: LOB04
+   skills:
+    - sk: id=101,name=Java,rating=5
+    - sk: id=101,name=Java,rating=6
+    - sk: id=101,name=Java,rating=7
+    - sk: id=101,name=Java,rating=8
+    - sk: id=101,name=Java,rating=9
+    - sk: id=101,name=Java,rating=10
+    - sk: id=101,name=Java,rating=10
+    - sk: id=101,name=Java,rating=10
+    - sk: id=101,name=Java,rating=5
+    - sk: id=101,name=Java,rating=4
+ - id: LOB05
+   skills:
+    - sk: id=117,name=Teller,rating=6
+    - sk: id=117,name=Teller,rating=8
+    - sk: id=117,name=Teller,rating=2
+    - sk: id=117,name=Teller,rating=5
+    - sk: id=118,name=Customer Relations,rating=3
+    - sk: id=118,name=Customer Relations,rating=6
+    - sk: id=118,name=Customer Relations,rating=7
+    - sk: id=118,name=Customer Relations,rating=5
+    - sk: id=113,name=Accounting,rating=7
+    - sk: id=113,name=Accounting,rating=7
+    - sk: id=113,name=Accounting,rating=8
+    - sk: id=113,name=Accounting,rating=7
+    - sk: id=114,name=Fincon,rating=8
+    - sk: id=114,name=Fincon,rating=8
+    - sk: id=114,name=Fincon,rating=5
+    - sk: id=114,name=Fincon,rating=5
+ - id: LOB06
+   skills:
+    - sk: id=101,name=Java,rating=3
+    - sk: id=101,name=Java,rating=4
+    - sk: id=101,name=Java,rating=5
+    - sk: id=101,name=Java,rating=6
+    - sk: id=101,name=Java,rating=7
+    - sk: id=101,name=Java,rating=8
+    - sk: id=101,name=Java,rating=9
+    - sk: id=101,name=Java,rating=10
+    - sk: id=101,name=Java,rating=10
+    - sk: id=101,name=Java,rating=10
+    - sk: id=101,name=Java,rating=5
+    - sk: id=101,name=Java,rating=4
+    - sk: id=101,name=Java,rating=9
+    - sk: id=101,name=Java,rating=2
+    - sk: id=101,name=Java,rating=7
+    - sk: id=101,name=Java,rating=2
+    - sk: id=101,name=Java,rating=8
+    - sk: id=101,name=Java,rating=4
+    - sk: id=101,name=Java,rating=5
+    - sk: id=102,name=JMS,rating=5
+    - sk: id=102,name=JMS,rating=6
+    - sk: id=102,name=JMS,rating=7
+    - sk: id=102,name=JMS,rating=8
+    - sk: id=103,name=MQ,rating=8
+    - sk: id=103,name=MQ,rating=5
+    - sk: id=103,name=MQ,rating=6
+    - sk: id=104,name=SQL Server,rating=8
+    - sk: id=104,name=SQL Server,rating=6
+    - sk: id=104,name=SQL Server,rating=5
+    - sk: id=104,name=SQL Server,rating=3
+    - sk: id=105,name=Oracle,rating=6
+    - sk: id=105,name=Oracle,rating=7
+    - sk: id=105,name=Oracle,rating=8
+    - sk: id=105,name=Oracle,rating=9
+    - sk: id=106,name=Sybase,rating=2
+    - sk: id=106,name=Sybase,rating=4
+    - sk: id=106,name=Sybase,rating=7
+    - sk: id=106,name=Sybase,rating=8
+    - sk: id=107,name=PL/SQL,rating=3
+    - sk: id=107,name=PL/SQL,rating=7
+    - sk: id=107,name=PL/SQL,rating=7
+    - sk: id=107,name=PL/SQL,rating=7
+    - sk: id=108,name=Gemfire,rating=6
+    - sk: id=108,name=Gemfire,rating=6
+    - sk: id=108,name=Gemfire,rating=6
+    - sk: id=108,name=Gemfire,rating=6
+    - sk: id=109,name=Autosys,rating=3
+    - sk: id=109,name=Autosys,rating=3
+    - sk: id=109,name=Autosys,rating=7
+    - sk: id=109,name=Autosys,rating=3
+    - sk: id=110,name=RestAPI,rating=3
+    - sk: id=110,name=RestAPI,rating=7
+    - sk: id=110,name=RestAPI,rating=8
+    - sk: id=110,name=RestAPI,rating=7
+    - sk: id=111,name=CloudFoundry,rating=5
+    - sk: id=111,name=CloudFoundry,rating=6
+    - sk: id=111,name=CloudFoundry,rating=7
+    - sk: id=111,name=CloudFoundry,rating=8
+    - sk: id=112,name=AWS,rating=2
+    - sk: id=112,name=AWS,rating=3
+    - sk: id=112,name=AWS,rating=7
+    - sk: id=112,name=AWS,rating=8
+    - sk: id=113,name=Accounting,rating=7
+    - sk: id=113,name=Accounting,rating=7
+    - sk: id=113,name=Accounting,rating=8
+    - sk: id=113,name=Accounting,rating=7
+    - sk: id=114,name=Fincon,rating=8
+    - sk: id=114,name=Fincon,rating=8
+    - sk: id=114,name=Fincon,rating=5
+    - sk: id=114,name=Fincon,rating=5
+    - sk: id=115,name=Budgeting,rating=9
+    - sk: id=115,name=Budgeting,rating=3
+    - sk: id=115,name=Budgeting,rating=1
+    - sk: id=115,name=Budgeting,rating=6
+    - sk: id=116,name=PMP,rating=3
+    - sk: id=116,name=PMP,rating=7
+    - sk: id=116,name=PMP,rating=8
+    - sk: id=116,name=PMP,rating=5
+    - sk: id=117,name=Teller,rating=6
+    - sk: id=117,name=Teller,rating=8
+    - sk: id=117,name=Teller,rating=2
+    - sk: id=117,name=Teller,rating=5
+    - sk: id=118,name=Customer Relations,rating=3
+    - sk: id=118,name=Customer Relations,rating=6
+    - sk: id=118,name=Customer Relations,rating=7
+    - sk: id=118,name=Customer Relations,rating=5
+    - sk: id=119,name=Front Desk,rating=5
+    - sk: id=119,name=Front Desk,rating=6
+    - sk: id=119,name=Front Desk,rating=6
+    - sk: id=119,name=Front Desk,rating=7
+    - sk: id=120,name=Business Analyst,rating=2
+    - sk: id=120,name=Business Analyst,rating=10
+    - sk: id=120,name=Business Analyst,rating=9
+    - sk: id=120,name=Business Analyst,rating=6
+    - sk: id=121,name=Jenkins,rating=3
+    - sk: id=121,name=Jenkins,rating=9
+    - sk: id=121,name=Jenkins,rating=10
+    - sk: id=121,name=Jenkins,rating=1
+    - sk: id=122,name=F5 Load Balancer,rating=3
+    - sk: id=122,name=F5 Load Balancer,rating=5
+    - sk: id=122,name=F5 Load Balancer,rating=8
+    - sk: id=122,name=F5 Load Balancer,rating=6
+    - sk: id=122,name=F5 Load Balancer,rating=6
+    - sk: id=122,name=F5 Load Balancer,rating=5
+    

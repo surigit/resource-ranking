@@ -1,0 +1,181 @@
+hire: 
+ - cand: id=801,name=Victoria,title=Master Software Engg,lob=LOB01
+   panel:
+    - int: id=201,name=Jacob,title=DBA,lob=LOB01
+      skills:
+       - sk: id=104,name=SQL Server,rating=8
+       - sk: id=105,name=Oracle,rating=6
+       - sk: id=106,name=Sybase,rating=4
+       - sk: id=107,name=PL/SQL,rating=3
+    - int: id=202,name=Michael,title=Solution Archiect,lob=LOB01
+      skills:
+       - sk: id=101,name=Java,rating=10
+       - sk: id=102,name=JMS,rating=7
+       - sk: id=104,name=SQL Server,rating=3
+       - sk: id=106,name=Sybase,rating=4
+       - sk: id=108,name=Gemfire,rating=6
+       - sk: id=110,name=RestAPI,rating=8
+       - sk: id=111,name=CloudFoundry,rating=7
+       - sk: id=112,name=AWS,rating=3
+       - sk: id=122,name=F5 Load Balancer,rating=3
+    - int: id=203,name=Joshua,title=Director,lob=LOB02
+      skills:
+       - sk: id=115,name=Budgeting,rating=3
+       - sk: id=116,name=PMP,rating=7
+ - cand: id=802,name=Evelyn,title=Solution Archiect,lob=LOB01
+   panel:
+    - int: id=201,name=Jacob,title=DBA,lob=LOB01
+      skills:
+       - sk: id=101,name=Java,rating=7
+       - sk: id=102,name=Spring,rating=7
+       - sk: id=103,name=SQL,rating=7
+    - int: id=202,name=Michael,title=Solution Archiect,lob=LOB01
+      skills:
+       - sk: id=101,name=Java,rating=7
+       - sk: id=102,name=Spring,rating=7
+       - sk: id=103,name=SQL,rating=7
+    - int: id=203,name=Joshua,title=Director,lob=LOB02
+      skills:
+       - sk: id=101,name=Java,rating=7
+       - sk: id=102,name=Spring,rating=7
+       - sk: id=103,name=SQL,rating=7
+ - cand: id=803,name=Hannah,title=Jr Engineer,lob=LOB02
+   panel:
+    - int: id=207,name=Emily,title=Tech Specialist,lob=LOB03
+      skills:
+       - sk: id=107,name=PL/SQL,rating=7
+       - sk: id=111,name=CloudFoundry,rating=5
+       - sk: id=104,name=SQL Server,rating=5
+    - int: id=209,name=Madison,title=MD,lob=LOB03
+      skills:
+       - sk: id=116,name=PMP,rating=8
+ - cand: id=804,name=Charlotte,title=Sr Manager,lob=LOB02
+   panel:
+    - int: id=201,name=Jacob,title=DBA,lob=LOB01
+      skills:
+       - sk: id=105,name=Oracle,rating=6
+    - int: id=202,name=Michael,title=Solution Archiect,lob=LOB01
+      skills:
+       - sk: id=108,name=Gemfire,rating=6
+       - sk: id=109,name=Autosys,rating=3
+       - sk: id=111,name=CloudFoundry,rating=6
+    - int: id=203,name=Joshua,title=Director,lob=LOB02
+      skills:
+       - sk: id=115,name=Budgeting,rating=3
+       - sk: id=114,name=Fincon,rating=8
+ - cand: id=805,name=Ethan,title=Software Engg,lob=LOB02
+   panel:
+    - int: id=201,name=Jacob,title=DBA,lob=LOB01
+      skills:
+       - sk: id=101,name=Java,rating=6
+       - sk: id=102,name=JMS,rating=6
+    - int: id=202,name=Michael,title=Solution Archiect,lob=LOB01
+      skills:
+       - sk: id=112,name=AWS,rating=3
+       - sk: id=121,name=Jenkins,rating=3
+    - int: id=203,name=Joshua,title=Director,lob=LOB02
+      skills:
+       - sk: id=110,name=RestAPI,rating=7
+ - cand: id=806,name=Zoey,title=Technical Lead,lob=LOB03
+   panel:
+    - int: id=201,name=Jacob,title=DBA,lob=LOB01
+      skills:
+       - sk: id=104,name=SQL Server,rating=8
+       - sk: id=105,name=Oracle,rating=7
+       - sk: id=106,name=Sybase,rating=4
+       - sk: id=108,name=Gemfire,rating=6
+    - int: id=202,name=Michael,title=Solution Archiect,lob=LOB01
+      skills:
+       - sk: id=122,name=F5 Load Balancer,rating=8
+    - int: id=203,name=Joshua,title=Director,lob=LOB02
+      skills:
+       - sk: id=114,name=Fincon,rating=5
+       - sk: id=112,name=AWS,rating=2
+       - sk: id=111,name=CloudFoundry,rating=5
+ - cand: id=807,name=Leah,title=Tech Specialist,lob=LOB03
+   panel:
+    - int: id=201,name=Jacob,title=DBA,lob=LOB01
+      skills:
+       - sk: id=102,name=JMS,rating=8
+       - sk: id=101,name=Java,rating=2
+
+    - int: id=202,name=Michael,title=Solution Archiect,lob=LOB01
+      skills:
+       - sk: id=108,name=Gemfire,rating=6
+       - sk: id=112,name=AWS,rating=3
+
+    - int: id=203,name=Joshua,title=Director,lob=LOB02
+      skills:
+       - sk: id=110,name=RestAPI,rating=3
+ - cand: id=808,name=Amelia,title=DevOps,lob=LOB03
+   panel:
+    - int: id=201,name=Jacob,title=DBA,lob=LOB01
+      skills:
+       - sk: id=104,name=SQL Server,rating=8
+       - sk: id=105,name=Oracle,rating=8
+
+    - int: id=202,name=Michael,title=Solution Archiect,lob=LOB01
+      skills:
+       - sk: id=106,name=Sybase,rating=4
+       - sk: id=107,name=PL/SQL,rating=7
+
+    - int: id=203,name=Joshua,title=Director,lob=LOB02
+      skills:
+       - sk: id=112,name=AWS,rating=2
+
+ - cand: id=809,name=Nevaeh,title=Data Developer,lob=LOB03
+   panel:
+    - int: id=201,name=Jacob,title=DBA,lob=LOB01
+      skills:
+       - sk: id=106,name=Sybase,rating=8
+       - sk: id=105,name=Oracle,rating=8
+
+    - int: id=202,name=Michael,title=Solution Archiect,lob=LOB01
+      skills:
+       - sk: id=111,name=CloudFoundry,rating=6
+       - sk: id=112,name=AWS,rating=7
+
+    - int: id=203,name=Joshua,title=Director,lob=LOB02
+      skills:
+       - sk: id=110,name=RestAPI,rating=8
+       - sk: id=112,name=AWS,rating=2
+ - cand: id=810,name=Kaylee,title=Business Analyst,lob=LOB04
+   panel:
+    - int: id=201,name=Jacob,title=DBA,lob=LOB01
+      skills:
+       - sk: id=120,name=Business Analyst,rating=2
+
+    - int: id=202,name=Michael,title=Solution Archiect,lob=LOB01
+      skills:
+       - sk: id=122,name=F5 Load Balancer,rating=6
+
+    - int: id=203,name=Joshua,title=Director,lob=LOB02
+      skills:
+       - sk: id=116,name=PMP,rating=3
+ - cand: id=811,name=Alyssa,title=Accounting Analyst,lob=LOB04
+   panel:
+    - int: id=201,name=Jacob,title=DBA,lob=LOB01
+      skills:
+       - sk: id=114,name=Fincon,rating=5
+
+    - int: id=202,name=Michael,title=Solution Archiect,lob=LOB01
+      skills:
+       - sk: id=111,name=CloudFoundry,rating=5
+
+    - int: id=203,name=Joshua,title=Director,lob=LOB02
+      skills:
+       - sk: id=116,name=PMP,rating=3
+ - cand: id=812,name=Allison,title=Director,lob=LOB04
+   panel:
+    - int: id=211,name=Olivia,title=Accounting Analyst,lob=LOB04
+      skills:
+       - sk: id=113,name=Accounting,rating=7
+    - int: id=210,name=Abigail,title=Business Analyst,lob=LOB04
+      skills:
+       - sk: id=120,name=Business Analyst,rating=10
+       - sk: id=115,name=Budgeting,rating=6
+    - int: id=206,name=Andrew,title=Technical Lead,lob=LOB03
+      skills:
+       - sk: id=110,name=RestAPI,rating=3
+       - sk: id=113,name=Accounting,rating=7
+       - sk: id=115,name=Budgeting,rating=3
